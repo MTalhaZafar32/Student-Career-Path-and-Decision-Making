@@ -16,6 +16,7 @@ Sentiment Analysis: We conducted sentiment analysis on the responses to the open
 Repository Structure
 The repository is organized into the following structure:
 
+"
 Student-Career-Path-Project/
   ├── data/
   │   ├── collected_data.csv
@@ -28,3 +29,4 @@ Student-Career-Path-Project/
   ├── final_report.pdf
   ├── README.md
   └── .gitignore
+  "
