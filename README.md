@@ -27,9 +27,32 @@ The repository is organized into the following structure:
   │
   ├── notebooks/
   │   ├── exploratory_notebook.ipynb
-  │   └── sentiment_analysis.ipynb
+  │   ├── sentiment_analysis.ipynb
+  │   └── data_cleaning.ipynb
   │
   ├── final_report.pdf
   ├── README.md
-  └── .gitignore```
+  └── .gitignore
+```
+
+1. data/: This directory contains the raw data file (collected_data.csv) obtained from the survey and the cleaned data file (cleaned_data.csv) used for analysis.
+
+2. notebooks/: This directory houses Jupyter notebooks used for data cleaning `data_cleaning_notebook.ipynb`, data exploration and sentiment analysis. `exploratory_notebook.ipynb` contains code for data visualization and descriptive statistics, while `sentiment_analysis.ipynb` performs sentiment analysis on the open-ended question.
+
+3. final_report.pdf: The final report of the project, summarizing the findings, insights, and recommendations based on the analysis.
+
+## Getting Started
+To reproduce the analysis or build upon it, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Copy code git clone (https://github.com/MTalhaZafar32/Student-Career-Path-and-Decision-Making.git)
+3. Explore the data/ directory to find the raw survey data (collected_data.csv) and cleaned data (cleaned_data.csv).
+4. Open the Jupyter notebooks in the notebooks/ directory to examine the data exploration and sentiment analysis code.
+5. Read the final_report.pdf to understand the project's conclusions and recommendations.
+
+## Contributing
+We welcome contributions to enhance the project further. If you have suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the `MIT License` - see the LICENSE file for details.   
 
