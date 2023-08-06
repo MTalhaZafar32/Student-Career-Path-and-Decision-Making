@@ -46,7 +46,7 @@ To reproduce the analysis or build upon it, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Copy code git clone (https://github.com/MTalhaZafar32/Student-Career-Path-and-Decision-Making.git)
-3. Explore the data/ directory to find the raw survey data `collected_data.csv` and cleaned data (cleaned_data.csv).
+3. Explore the data/ directory to find the raw survey data `collected_data.csv` and cleaned data cleaned_data.csv.
 4. Open the Jupyter notebooks in the notebooks/ directory to examine the data exploration and sentiment analysis code.
 5. Read the final_report.pdf to understand the project's conclusions and recommendations.
 
