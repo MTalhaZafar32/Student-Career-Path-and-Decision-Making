@@ -35,7 +35,7 @@ The repository is organized into the following structure:
   └── .gitignore
 ```
 
-1. data/: This directory contains the raw data file (collected_data.csv) obtained from the survey and the cleaned data file (cleaned_data.csv) used for analysis.
+1. data/: This directory contains the raw data file (collected_data.csv) obtained from the survey and the cleaned data file `cleaned_data.csv` used for analysis.
 
 2. notebooks/: This directory houses Jupyter notebooks used for data cleaning `data_cleaning_notebook.ipynb`, data exploration and sentiment analysis. `exploratory_notebook.ipynb` contains code for data visualization and descriptive statistics, while `sentiment_analysis.ipynb` performs sentiment analysis on the open-ended question.
 
